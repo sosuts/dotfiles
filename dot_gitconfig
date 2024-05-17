@@ -1,0 +1,20 @@
+[user]
+	name = sosuts
+	email = sosuke.utsunomiya@gmail.com
+
+[alias]
+	g = git
+	a = add
+	au = add -u
+	ap = add -p
+	aup = add -u -p
+	aA = add .
+	b = branch
+	co = checkout
+	cm = commit
+	cmm = commit -m
+	st = status
+	sw = switch
+	log1 = log -1
+	log2 = log -2
+	log3 = log -3
