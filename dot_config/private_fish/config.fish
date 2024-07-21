@@ -31,15 +31,9 @@ abbr --add dp docker compose
 abbr --add dl docker logs
 # clipboard
 abbr --add clip xsel --clipboard --input
+abbr --add c chezmoi
 
 function generate_random_case
     generate_random_input $argv
     generate_random_test
-end
-
-function fish_prompt
-    __vsc_fish_prompt
-    __vsc_fish_cmd_start
-    # add newline
-    echo -e "\n"
 end
