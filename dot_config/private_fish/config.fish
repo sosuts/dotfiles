@@ -32,6 +32,9 @@ abbr --add dl docker logs
 # clipboard
 abbr --add clip xsel --clipboard --input
 abbr --add c chezmoi
+abbr --add explain gh copilot explain
+abbr --add sug gh copilot sug
+abbr --add repo gh repo
 
 function generate_random_case
     generate_random_input $argv
