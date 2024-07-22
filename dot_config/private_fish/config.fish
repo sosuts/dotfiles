@@ -14,6 +14,7 @@ end
 
 # Path
 fish_add_path ~/bin
+fish_add_path /home/sosuts/.local/bin
 
 # abbreviations for git
 abbr --add g git
