@@ -41,3 +41,5 @@ function generate_random_case
     generate_random_input $argv
     generate_random_test
 end
+
+zoxide init fish | source
