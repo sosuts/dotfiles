@@ -33,7 +33,7 @@ abbr --add dl docker logs
 abbr --add clip xsel --clipboard --input
 abbr --add c chezmoi
 abbr --add explain gh copilot explain
-abbr --add sug gh copilot sug
+abbr --add sug gh copilot suggest
 abbr --add repo gh repo
 
 function generate_random_case
